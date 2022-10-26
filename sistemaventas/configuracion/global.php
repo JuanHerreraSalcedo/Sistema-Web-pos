@@ -1,9 +1,9 @@
 <?php
 
 
-define("BD HOST", "localhost");
+define("DB_HOST", "localhost");
 
-define("BD_NAME", "dbsistema");
+define("DB_NAME", "dbsistema");
 
 define("DB_USERNAME","root");
 
